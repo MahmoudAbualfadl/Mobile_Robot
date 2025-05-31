@@ -1,0 +1,29 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/dopamine/Projects/ROS/ros2_ws/build/turtle_motion",
+        "/home/dopamine/Projects/ROS/ros2_ws/install/turtle_motion/lib/python3.10/site-packages",
+        "/home/dopamine/Projects/ROS/ros2_ws/build/my_package",
+        "/home/dopamine/Projects/ROS/ros2_ws/install/my_package/lib/python3.10/site-packages",
+        "/home/dopamine/Projects/ROS/ros2_ws/build/Selected_Topics_mini_project",
+        "/home/dopamine/Projects/ROS/ros2_ws/install/Selected_Topics_mini_project/lib/python3.10/site-packages",
+        "/home/dopamine/Projects/ROS/ros2_ws/install/Selected_Topics_mini_project/lib/python3.10/site-packages",
+        "/home/dopamine/Projects/ROS/mobile_robot_ws/install/assignment_2/lib/python3.10/site-packages",
+        "/home/dopamine/Projects/ROS/mobile_robot_ws/install/assignment_1/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/dopamine/Projects/ROS/ros2_ws/build/turtle_motion",
+        "/home/dopamine/Projects/ROS/ros2_ws/install/turtle_motion/lib/python3.10/site-packages",
+        "/home/dopamine/Projects/ROS/ros2_ws/build/my_package",
+        "/home/dopamine/Projects/ROS/ros2_ws/install/my_package/lib/python3.10/site-packages",
+        "/home/dopamine/Projects/ROS/ros2_ws/build/Selected_Topics_mini_project",
+        "/home/dopamine/Projects/ROS/ros2_ws/install/Selected_Topics_mini_project/lib/python3.10/site-packages",
+        "/home/dopamine/Projects/ROS/ros2_ws/install/Selected_Topics_mini_project/lib/python3.10/site-packages",
+        "/home/dopamine/Projects/ROS/mobile_robot_ws/install/assignment_2/lib/python3.10/site-packages",
+        "/home/dopamine/Projects/ROS/mobile_robot_ws/install/assignment_1/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "ros.distro": "humble"
+}
