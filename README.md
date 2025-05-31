@@ -2,7 +2,7 @@ Mobile Robot Simulation with Gazebo and RViz
 
 This repository contains a ROS-based project for simulating a mobile robot moving in a circular path using Gazebo for physics simulation and RViz for visualization. The robot is modeled to follow a circular trajectory, and this project demonstrates how to set up the simulation environment, launch the robot in Gazebo, and visualize its movement in RViz.
 Table of Contents
-
+![Image](https://github.com/user-attachments/assets/a99f2f26-03ef-470b-b788-d869fbe0a886)
     Overview
     Prerequisites
     Installation
